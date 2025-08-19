@@ -1,0 +1,16 @@
+
+#pokedex .card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer; /* cambia cursore per indicare interattività */
+}
+
+#pokedex .card:hover {
+  transform: translateY(-5px) scale(1.05); /* solleva leggermente la card e ingrandisce */
+  box-shadow: 0 15px 25px rgba(0,0,0,0.3); /* ombra più intensa */
+}
+
+#pokedex .card:hover img {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
