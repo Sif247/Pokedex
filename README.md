@@ -11,7 +11,7 @@ Una semplice applicazione web per visualizzare i Pokémon, con funzionalità di 
 
 ## Screenshot
 
-![Screens<img width="1546" height="847" alt="pokedex" src="https://github.com/user-attachments/assets/4c2ff49d-1ffa-4820-91f9-53aff3caa7cb" />
+<img width="1546" height="847" alt="pokedex" src="https://github.com/user-attachments/assets/4c2ff49d-1ffa-4820-91f9-53aff3caa7cb" />
 
 ## Tecnologie utilizzate
 
