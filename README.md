@@ -17,6 +17,6 @@ Una semplice applicazione web per visualizzare i Pokémon, con funzionalità di 
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript 
 - Bootstrap 5
 
